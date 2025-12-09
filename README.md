@@ -1,4 +1,5 @@
    Weather Web Application
+   
 A simple and responsive weather app using HTML, CSS & JavaScript with OpenWeatherMap API.
 Search any city to view live temperature and weather details instantly.
 
